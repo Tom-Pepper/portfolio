@@ -1,0 +1,7 @@
+.header {
+  background-color: #c66900;
+  display: flex;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
